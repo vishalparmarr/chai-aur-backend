@@ -1,0 +1,20 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "a backend project at chai aur code channel - youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Vishal Parmar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+  }
+}
